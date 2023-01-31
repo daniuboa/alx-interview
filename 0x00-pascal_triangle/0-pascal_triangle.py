@@ -43,4 +43,3 @@ def pascal_triangle(n):
             # the end of the row to complete it.
             triangle[i].append(1)
         return triangle
-      
